@@ -38,6 +38,7 @@ Encontram-se também, na root do projeto:
 - README.md
 - makefile: define as regras de compilação e ligação
 - sdmessage.proto: esquema do *Protocol Buffer*
+- Enunciados das quatro fases do projeto
 
 ---
 
